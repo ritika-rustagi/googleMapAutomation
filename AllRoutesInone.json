@@ -1,0 +1,258 @@
+[
+    {
+        "pathname": "via Mahatma Gandhi Marg",
+        "pdescr": "Fastest route now due to traffic conditions   without traffic",
+        "details": "  47 min      23.7 km   ",
+        "directions": [
+            {
+                "heading": "Take Sat Guru Ram Singh Rd, Mahatma Gandhi Marg, Sardar Patel Marg, Teen Murti Marg, ... and Vikas Marg to Viswa Karma Park F Block Rd in Laxmi Nagar",
+                "details": "41 min (22.6 km)",
+                "steps": [
+                    {
+                        "heading": "Head east on Mahakavi Goswami Tulsidas Marg/Swarg Ashram Rd toward Gali Number 2",
+                        "details": "750 m",
+                        "extra": "Continue to follow Mahakavi Goswami Tulsidas Marg"
+                    },
+                    {
+                        "heading": "Turn left onto Sat Guru Ram Singh Rd",
+                        "details": "1.1 km",
+                        "extra": "Pass by the park (on the left in 950 m)"
+                    },
+                    {
+                        "heading": "Turn right at Mayapuri Chowk",
+                        "details": "150 m"
+                    },
+                    {
+                        "heading": "Use any lane to take the ramp onto Mahatma Gandhi Marg/Ring Rd",
+                        "details": "5.9 km",
+                        "extra": "Continue to follow Mahatma Gandhi Marg"
+                    },
+                    {
+                        "heading": "Use the left 2 lanes to take the ramp",
+                        "details": "300 m"
+                    },
+                    {
+                        "heading": "Slight right",
+                        "details": "190 m"
+                    },
+                    {
+                        "heading": "Use the right lane to merge with Sardar Patel Marg",
+                        "details": "2.6 km"
+                    },
+                    {
+                        "heading": "Turn right onto Kautilya Marg",
+                        "details": "650 m",
+                        "extra": "Pass by High Commission of Sri Lanka (on the left in 600 m)"
+                    },
+                    {
+                        "heading": "At the roundabout, take the 3rd exit onto Teen Murti Marg",
+                        "details": "600 m",
+                        "extra": "Pass by Police Station Chanakyapuri (on the right in 300 m)"
+                    },
+                    {
+                        "heading": "At Teen Murti-Haifa Chowk, take the 4th exit and stay on Teen Murti Marg",
+                        "details": "800 m"
+                    },
+                    {
+                        "heading": "At the roundabout, take the 2nd exit onto Akbar Rd",
+                        "details": "700 m"
+                    },
+                    {
+                        "heading": "At the roundabout, take the 2nd exit and stay on Akbar Rd",
+                        "details": "700 m"
+                    },
+                    {
+                        "heading": "At the roundabout, take the 3rd exit and stay on Akbar Rd",
+                        "details": "850 m"
+                    },
+                    {
+                        "heading": "At the roundabout, take the 3rd exit and stay on Akbar Rd",
+                        "details": "450 m"
+                    },
+                    {
+                        "heading": "Use any lane to turn slightly left onto C - Hexagon/India Gate Cir",
+                        "details": "600 m"
+                    },
+                    {
+                        "heading": "Keep left to continue on Copernicus Marg",
+                        "details": "1.1 km",
+                        "extra": "Pass by Central Administrative Tribunal (on the left in 750 m)"
+                    },
+                    {
+                        "heading": "At the roundabout, exit onto Sikandra Rd",
+                        "details": "950 m",
+                        "extra": "Pass by Himachal Bhawan (on the left)"
+                    },
+                    {
+                        "heading": "Turn left onto Bahadur Shah Zafar Marg",
+                        "details": "300 m"
+                    },
+                    {
+                        "heading": "Turn right onto Indraprashta Marg",
+                        "details": "550 m",
+                        "extra": "Pass by Income Tax Office (on the right)"
+                    },
+                    {
+                        "heading": "Continue onto Subhash Chandra Bose Marg/Vikas Marg",
+                        "details": "300 m"
+                    },
+                    {
+                        "heading": "Keep right to continue on Vikas Marg",
+                        "details": "1.7 km"
+                    },
+                    {
+                        "heading": "Use the left 2 lanes to take the ramp to Geeta Colony Rd/Pushta Rd",
+                        "details": "550 m"
+                    },
+                    {
+                        "heading": "Continue onto Geeta Colony Rd/Pushta Rd",
+                        "details": "850 m"
+                    }
+                ]
+            },
+            {
+                "heading": "Take Lane Number 8 to Gali Number 4",
+                "details": "6 min (1.1 km)",
+                "steps": [
+                    {
+                        "heading": "Turn right onto Viswa Karma Park F Block Rd",
+                        "details": "37 m"
+                    },
+                    {
+                        "heading": "Turn left at the 1st cross street",
+                        "details": "170 m"
+                    },
+                    {
+                        "heading": "Turn right toward Lane Number 8",
+                        "details": "92 m"
+                    },
+                    {
+                        "heading": "Continue onto Lane Number 8",
+                        "details": "500 m"
+                    },
+                    {
+                        "heading": "Turn right onto Gali Number 4",
+                        "details": "290 m"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "pathname": "via Mahatma Gandhi Marg/Ring Rd and Outer Ring Rd",
+        "pdescr": "Lighter traffic than usual   without traffic",
+        "details": "  54 min      31.7 km   ",
+        "directions": [
+            {
+                "heading": "Get on Mahatma Gandhi Marg/Ring Rd from Mahakavi Goswami Tulsidas Marg and Sat Guru Ram Singh Rd",
+                "details": "5 min (2.1 km)",
+                "steps": [
+                    {
+                        "heading": "Head east on Mahakavi Goswami Tulsidas Marg/Swarg Ashram Rd toward Gali Number 2",
+                        "details": "750 m",
+                        "extra": "Continue to follow Mahakavi Goswami Tulsidas Marg"
+                    },
+                    {
+                        "heading": "Turn left onto Sat Guru Ram Singh Rd",
+                        "details": "1.0 km",
+                        "extra": "Pass by the park (on the left in 950 m)"
+                    },
+                    {
+                        "heading": "Use the left 2 lanes to turn left",
+                        "details": "280 m"
+                    },
+                    {
+                        "heading": "Use any lane to take the ramp onto Mahatma Gandhi Marg/Ring Rd",
+                        "details": "110 m"
+                    }
+                ]
+            },
+            {
+                "heading": "Merge with Mahatma Gandhi Marg/Ring Rd",
+                "details": "15 min (9.8 km)",
+                "extra": "Pass by Celebration By:REGÂLIA (on the right in 8.0 km)"
+            },
+            {
+                "heading": "Take Arihant Marg to NH9 in Model Town",
+                "details": "6 min (3.6 km)",
+                "steps": [
+                    {
+                        "heading": "Continue onto Azadpur Flyover",
+                        "details": "650 m"
+                    },
+                    {
+                        "heading": "Continue onto Arihant Marg",
+                        "details": "2.3 km"
+                    },
+                    {
+                        "heading": "At the roundabout, take the 2nd exit onto NH9",
+                        "details": "650 m"
+                    }
+                ]
+            },
+            {
+                "heading": "Take Outer Ring Rd and NH 44 to Geeta Colony Bridge/Raja Ram Kohli Marg in Raj Ghat. Exit from NH 44",
+                "details": "19 min (12.7 km)",
+                "steps": [
+                    {
+                        "heading": "Use the right 3 lanes to merge with NH9",
+                        "details": "550 m"
+                    },
+                    {
+                        "heading": "Continue straight onto Burari Flyover/Dr KB Hegdewar Marg/Outer Ring Rd",
+                        "details": "7.5 km",
+                        "extra": "Continue to follow Outer Ring Rd"
+                    },
+                    {
+                        "heading": "Slight left",
+                        "details": "210 m"
+                    },
+                    {
+                        "heading": "Slight left onto NH 44",
+                        "details": "17 m"
+                    },
+                    {
+                        "heading": "Continue straight to stay on NH 44",
+                        "details": "3.8 km",
+                        "extra": "Pass by the water (on the left in 3.7 km)"
+                    },
+                    {
+                        "heading": "Exit onto Geeta Colony Bridge/Raja Ram Kohli Marg",
+                        "details": "600 m"
+                    }
+                ]
+            },
+            {
+                "heading": "Continue on Geeta Colony Bridge/Raja Ram Kohli Marg. Take Geeta Colony Rd/Pushta Rd to Gali Number 4 in Vishwakarma Park",
+                "details": "9 min (3.5 km)",
+                "steps": [
+                    {
+                        "heading": "Merge with Geeta Colony Bridge/Raja Ram Kohli Marg",
+                        "details": "1.1 km"
+                    },
+                    {
+                        "heading": "Use any lane to take the ramp onto Geeta Colony Rd/Pushta Rd",
+                        "details": "600 m"
+                    },
+                    {
+                        "heading": "Keep right to continue on Geeta Colony Rd/Pushta Rd/SDM Court Flyover",
+                        "details": "850 m",
+                        "extra": "Continue to follow Geeta Colony Rd/Pushta Rd"
+                    },
+                    {
+                        "heading": "Turn left toward Lane Number 8",
+                        "details": "110 m"
+                    },
+                    {
+                        "heading": "Continue onto Lane Number 8",
+                        "details": "500 m"
+                    },
+                    {
+                        "heading": "Turn right onto Gali Number 4",
+                        "details": "290 m"
+                    }
+                ]
+            }
+        ]
+    }
+]
